@@ -1,0 +1,38 @@
+body {
+    background-color: dodgerblue;
+}
+
+button{
+    border-radius: 50%;
+    margin: 4px;
+    height: 50px;
+    width: 50px;
+}
+
+.container {
+background-color: #fff;
+height: 400px;
+width: 265px;
+margin-top: 200px;
+justify-content: center;
+align-items: center;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.Display {
+    width: 100%;
+    background-color: gold;
+    text-align: right;
+}
+
+.miniDisplay {
+    height: 28px;
+    color: #fff;
+}
+
+.operation{
+
+    background-color: indianred;
+}
