@@ -17,7 +17,6 @@ state = {
 }
 
 
-
     handleClcik = (e) => {
        const {lastPressed, currentNumber, preResult, operator} = this.state;
         const {innerText} = e.target;
